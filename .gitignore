@@ -1,0 +1,6 @@
+./shadow_mapping/glm
+./shadow_mapping/glew
+./skybox/glew
+./skybox/glm
+./terrain/glfw
+./terrain/ext
